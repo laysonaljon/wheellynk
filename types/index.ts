@@ -1,3 +1,4 @@
+import { type } from "os"
 import { MouseEventHandler } from "react"
 
 export interface CustomButtomProps{
